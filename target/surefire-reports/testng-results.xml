@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T11:52:19 TRT" name="Surefire suite" finished-at="2025-09-09T11:53:05 TRT" duration-ms="45516">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T11:52:19 TRT" name="Surefire test" finished-at="2025-09-09T11:53:05 TRT" duration-ms="45516">
+      <class name="com.insider.tests.InsiderWebsiteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.insider.tests.InsiderWebsiteTest@e350b40]" started-at="2025-09-09T11:52:19 TRT" name="setUp" finished-at="2025-09-09T11:52:21 TRT" duration-ms="1955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testViewRoleRedirection()[pri:5, instance:com.insider.tests.InsiderWebsiteTest@e350b40]" started-at="2025-09-09T11:52:21 TRT" name="testViewRoleRedirection" description="Verify View Role button redirects to Lever Application form" finished-at="2025-09-09T11:53:04 TRT" duration-ms="43070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewRoleRedirection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.insider.tests.InsiderWebsiteTest@e350b40]" started-at="2025-09-09T11:53:04 TRT" name="tearDown" finished-at="2025-09-09T11:53:05 TRT" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.insider.tests.InsiderWebsiteTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
