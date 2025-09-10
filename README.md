@@ -204,14 +204,6 @@ options.addArguments("--window-size=1920,1080");
 6. **Code Reusability**: Common functionality in BasePage class
 7. **Configuration Management**: External configuration through XML and properties
 
-## 🧪 Test Data & Environment
-
-- **Base URL**: https://useinsider.com/
-- **Test Environment**: Production website
-- **Browser**: Google Chrome (latest stable version)
-- **Screen Resolution**: 1920x1080
-- **Timeout Values**: 10 seconds for element waits
-
 ## 📞 Troubleshooting
 
 ### Common Issues
